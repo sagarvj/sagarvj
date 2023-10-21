@@ -12,7 +12,7 @@
 
 <p align="left">
     <a href="https://twitter.com/saa_agarr" target="_blank">
-        <img src="https://twitter.com/saa_agarr?logo=twitter&style=for-the-badge" alt="https://twitter.com/saa_agarr" />
+        <img src="logo=twitter&style=for-the-badge" alt="https://twitter.com/saa_agarr" />
     </a>
 </p>
 
