@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-    <a href="https://twitter.com/https://twitter.com/saa_agarr" target="_blank">
+    <a href="https://twitter.com/saa_agarr" target="_blank">
         <img src="https://img.shields.io/twitter/follow/https://twitter.com/saa_agarr?logo=twitter&style=for-the-badge" alt="https://twitter.com/saa_agarr" />
     </a>
 </p>
