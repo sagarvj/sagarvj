@@ -19,7 +19,7 @@
 - 🔭 I’m currently learning and working on **Data Analytics and working on some projects.**
 - 👯 I’m looking to collaborate on **Any data analytics and Data Science projects.**
 - 📫 How to reach me **vijaysagar1305@gmail.com**
-- ⚡️ Fun Fact **I think I am funny**
+- ⚡️ Fun Fact: **I think I am funny**
 
 ### Connect with me:
 <p align="left">
