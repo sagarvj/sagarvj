@@ -1,4 +1,3 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif)](https://your-profile-link-here)
 
 # Hi 👋, I'm Sagar Vijay
 
